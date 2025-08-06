@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akinola Daniel, a Back end Sofware Developer & Crypto Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm Akinola Daniel, a Backend Developer & Crypto Enthusiast</h1>
 <h3 align="center">Highly motivated and detail-oriented developer with expertise in: HTML | CSS | SCSS | React | PHP | Laravel Passionate about building innovative web applications and navigating the crypto space. Skilled in technical analysis, chart navigation, and cryptocurrency trading.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel185228&label=Profile%20views&color=0e75b6&style=flat" alt="daniel185228" /> </p>
